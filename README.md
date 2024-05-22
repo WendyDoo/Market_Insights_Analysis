@@ -12,3 +12,6 @@ In this project, I used a rich dataset containing information about the top 281 
 🍽️ Exploratory Data Analysis (EDA)
 📈 Trend Analysis
 🔍 Market Insights
+
+# Data Source: 
+https://www.kaggle.com/datasets/muhammadroshaanriaz/top-281-michelin-starred-restaurants-dataset
